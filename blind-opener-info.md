@@ -28,7 +28,7 @@ The blind opener would be designed to be compact and subtle. The encloser would 
 Torque Insufficiencies
 With the above design, the torque was adequate to close the blinds however was unable to open them. The force and friction of the gears impact the output of force and therefore more torque is required. After acquiring a 3D printer of my own, I was able to research and experiment with various gearboxes to maximize torque output without altering the hardware I had already purchased.
 
-![assembly](./blind-opener-images/assembly.png) ![assembly2](./blind-opener-images/assembly_exploded.png){: style="float:centre; padding-right:10px"}
+![assembly](./blind-opener-images/assembly.png) ![assembly2](./blind-opener-images/assembly_exploded.png)
 
 ## Planetary Gearbox 3.7:1
 Utilizing the plethora of designs available online through the 3-D printing community, I began experimenting with planetary gearboxes to increase my output torque. I began by printing: https://www.printables.com/model/281222-nema17-planetary-gearbox which utilized hardware I already had and would theoretically increase my torque by 3.7 times. After printing and installing the gearbox, a similar issue was found where the output was still too low to open the blinds. 
