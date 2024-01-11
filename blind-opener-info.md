@@ -16,7 +16,7 @@ Bearings
 As calculated, the torque required to turn the blinds from a closed -> open position requires:
 0.735Nm
 To minimize size, cost, and weight, I chose a 0.4Nm holding torque stepper motor which has an active torque of 0.34Nm. Rounding this down to ensure tolerance, we assume the stepper has a torque of 0.3 Nm. To counter this loss in force, I implemented a gear design to increase output torque. The input gear will have 13 teeth to the output gear which will have 36 teeth. This equates to a torque multiplication of:
-$36/13 = 2.76 approx.$
+$36/13 = 2.76$ approx.
 Meaning I will receive an output torque of:
 $2.76 * 0.3 = 0.828Nm$
 Which should suffice in moving the roller blinds in both directions without the need for a counterweight.
