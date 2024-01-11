@@ -30,6 +30,7 @@ With the above design, the torque was adequate to close the blinds however was u
 
 <p align="center">
   <img src= "./blind-opener-images/assembly.png" />
+  <img src= "./blind-opener-images/assembly_exploded.png" />
 </p>
 ![assembly](./blind-opener-images/assembly.png) ![assembly2](./blind-opener-images/assembly_exploded.png)
 
