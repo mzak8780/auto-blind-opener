@@ -60,5 +60,9 @@ After another failed design, I looked to overcompensate on the torque aspect and
 
 ### Spool Design
 The initial design of the spool mimicked the size of the blind’s chain mechanism. I measured the dimensions of the beaded chain and implemented a similar pattern into a spool on Fusion 360 (Figure x). This was advantageous for initial testing however due to the skipping of beads under high load (blind opening), I sought to improve the design. I began by increasing the size of the spool as well as the distance between the bead housings within my design. This is because I noticed that when the rope was taught, the beads would not sit properly in their grooves. This improved traction however skipping was still frequent. I then turned to the design of the blind itself and replicated the box-like pattern (Figure x). This way, the beads would simply get caught instead of having to fit a groove.
- 
+
+<p align="center">
+  <iframe src="./blind-opener-images/BlindOpeningDemo.mp4" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</p>
+
 
