@@ -40,6 +40,9 @@ With the above design, the torque was adequate to close the blinds however was u
 <p align="center">
   <img src= "./blind-opener-images/assembly.png" />
   <img src= "./blind-opener-images/assembly_exploded.png" />
+</p>
+
+<p align="center">
   <em>Figure 1 & 2: Blind Opener V1 CAD Assembly</em>
 </p>
 
@@ -47,26 +50,24 @@ With the above design, the torque was adequate to close the blinds however was u
 Utilizing the plethora of designs available online through the 3-D printing community, I began experimenting with planetary gearboxes to increase my output torque. I began by printing: https://www.printables.com/model/281222-nema17-planetary-gearbox which utilized hardware I already had and would theoretically increase my torque by 3.7 times. After printing and installing the gearbox, a similar issue was found where the output was still too low to open the blinds. 
 
 <p align="center">
-  <p>
     <img src= "./blind-opener-images/gearboxV1.png" />
     <img src= "./blind-opener-images/gearboxV1_2.png" />
-  </p>
-  <p>  
-    <em>Figure 3 & 4: Gearbox solution #1</em>
-  </p>
+</p>
+
+<p align="center">
+  <em>Figure 3 & 4: Gearbox solution #2</em>
 </p>
 
 ### Planetary Gearbox 25:1
 After another failed design, I looked to overcompensate on the torque aspect and found an online design that amplified the torque by a ratio of 25:1 (https://www.printables.com/model/136854-25-1-ratio-planetary-gearbox-for-nema-17-stepper ). After purchasing some additional fasteners, I printed and assembled the gearbox for testing. Initial tests proved to be promising as the blinds were able to be opened however due to the lack of friction with the chain beads on the output spool, the chain would jump and skip output rotations. Additionally, the way the gearbox was designed, the front spool was attached to a bearing that simply clicked into the front face of the gearbox. To successfully pull the blinds open, the tension of the chain had to be quite taught which would cause the bearing to slip out of the frame.
 
 <p align="center">
-  <p>
     <img src= "./blind-opener-images/gearboxV2.png" />
     <img src= "./blind-opener-images/gearboxV2_2.png" />
-  </p>
-  <p>
-    <em>Figure 3 & 4: Gearbox solution #2</em>
-  </p>
+</p>
+
+<p align="center">
+  <em>Figure 3 & 4: Gearbox solution #2</em>
 </p>
 
 ### Spool Design
