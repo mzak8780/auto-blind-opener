@@ -55,7 +55,7 @@ Utilizing the plethora of designs available online through the 3-D printing comm
 </p>
 
 <p align="center">
-  <em>Figure 3 & 4: Gearbox solution #2</em>
+  <em>Figure 3 & 4: Gearbox solution #1</em>
 </p>
 
 ### Planetary Gearbox 25:1
@@ -67,7 +67,7 @@ After another failed design, I looked to overcompensate on the torque aspect and
 </p>
 
 <p align="center">
-  <em>Figure 3 & 4: Gearbox solution #2</em>
+  <em>Figure 5 & 6: Gearbox solution #2</em>
 </p>
 
 ### Spool Design
@@ -75,7 +75,7 @@ The initial design of the spool mimicked the size of the blind’s chain mechani
 
 <p align="center">
   <img src= "./blind-opener-images/spool_final.png" />
-  <em>Figure 5: Final spool solution</em>
+  <em>Figure 7: Final spool solution</em>
 </p>
 
 ### Final Build
@@ -83,7 +83,7 @@ After constructing the spool and attaching it to the gearbox and motor, the fina
 
 <p align="center">
   <img src= "./blind-opener-images/final3.png" />
-  <em>Figure 6: Electronics enclosed within casing</em>
+  <em>Figure 8: Electronics enclosed within casing</em>
 </p>
 
 <p align="center">
@@ -91,11 +91,13 @@ After constructing the spool and attaching it to the gearbox and motor, the fina
   <img src= "./blind-opener-images/final2.png" />
 </p>
 <p align="center">
-  <em>Figure 7 & 8: Final build completed</em>
+  <em>Figure 9 & 10: Final build completed</em>
 </p>
 
 ## Video Demonstration
 
 https://github.com/mzak8780/auto-blind-opener/assets/50131251/77a8361b-64e1-4853-98c4-8377ad70cdca
-
+<p align="center">
+  <em>Video 1: Blind opening demonstration</em>
+</p>
 
