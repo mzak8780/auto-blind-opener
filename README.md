@@ -40,6 +40,7 @@ With the above design, the torque was adequate to close the blinds however was u
 <p align="center">
   <img src= "./blind-opener-images/assembly.png" />
   <img src= "./blind-opener-images/assembly_exploded.png" />
+  <em>Figure 1 & 2: Blind Opener V1 CAD Assembly</em>
 </p>
 
 ### Planetary Gearbox 3.7:1
@@ -48,6 +49,7 @@ Utilizing the plethora of designs available online through the 3-D printing comm
 <p align="center">
   <img src= "./blind-opener-images/gearboxV1.png" />
   <img src= "./blind-opener-images/gearboxV1_2.png" />
+  <em>Figure 3 & 4: Gearbox solution #1</em>
 </p>
 
 ### Planetary Gearbox 25:1
@@ -56,26 +58,30 @@ After another failed design, I looked to overcompensate on the torque aspect and
 <p align="center">
   <img src= "./blind-opener-images/gearboxV2.png" />
   <img src= "./blind-opener-images/gearboxV2_2.png" />
+  <em>Figure 3 & 4: Gearbox solution #2</em>
 </p>
 
 ### Spool Design
-The initial design of the spool mimicked the size of the blind’s chain mechanism. I measured the dimensions of the beaded chain and implemented a similar pattern into a spool on Fusion 360 (Figure x). This was advantageous for initial testing however due to the skipping of beads under high load (blind opening), I sought to improve the design. I began by increasing the size of the spool as well as the distance between the bead housings within my design. This is because I noticed that when the rope was taught, the beads would not sit properly in their grooves. This improved traction however skipping was still frequent. I then turned to the design of the blind itself and replicated the box-like pattern (Figure x). This way, the beads would simply get caught instead of having to fit a groove.
+The initial design of the spool mimicked the size of the blind’s chain mechanism. I measured the dimensions of the beaded chain and implemented a similar pattern into a spool on Fusion 360 (Figure 3). This was advantageous for initial testing however due to the skipping of beads under high load (blind opening), I sought to improve the design. I began by increasing the size of the spool as well as the distance between the bead housings within my design. This is because I noticed that when the rope was taught, the beads would not sit properly in their grooves. This improved traction however skipping was still frequent. I then turned to the design of the blind itself and replicated the box-like pattern (Figure 5). This way, the beads would simply get caught instead of having to fit a groove.
 
 
 <p align="center">
   <img src= "./blind-opener-images/spool_final.png" />
+  <em>Figure 5: Final spool solution</em>
 </p>
 
 ### Final Build
-After constructing the spool and attaching it to the gearbox and motor, the final step was to design a case to enclose the electronics. The case was fitted with 4 holes for wall mounting and a few additional holes for wire management. The electronics fit inside as seen in Figure x. And the final construction can be seen in Figure x and Figure x.
+After constructing the spool and attaching it to the gearbox and motor, the final step was to design a case to enclose the electronics. The case was fitted with 4 holes for wall mounting and a few additional holes for wire management. The electronics fit inside as seen in Figure 6. The final construction can be seen in Figure 7 and Figure 8.
 
 <p align="center">
-  <img src= "./blind-opener-images/final_2.png" />
+  <img src= "./blind-opener-images/final2.png" />
+  <em>Figure 6: Electronics enclosed within casing</em>
 </p>
 
 <p align="center">
-  <img src= "./blind-opener-images/final_1.png" />
-  <img src= "./blind-opener-images/final_3.png" />
+  <img src= "./blind-opener-images/final1.png" />
+  <img src= "./blind-opener-images/final3.png" />
+  <em>Figure 7 & 8: Final build completed</em>
 </p>
 
 ## Video Demonstration
