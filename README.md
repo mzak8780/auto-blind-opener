@@ -47,23 +47,30 @@ With the above design, the torque was adequate to close the blinds however was u
 Utilizing the plethora of designs available online through the 3-D printing community, I began experimenting with planetary gearboxes to increase my output torque. I began by printing: https://www.printables.com/model/281222-nema17-planetary-gearbox which utilized hardware I already had and would theoretically increase my torque by 3.7 times. After printing and installing the gearbox, a similar issue was found where the output was still too low to open the blinds. 
 
 <p align="center">
-  <img src= "./blind-opener-images/gearboxV1.png" />
-  <img src= "./blind-opener-images/gearboxV1_2.png" />
-  <em>Figure 3 & 4: Gearbox solution #1</em>
+  <p>
+    <img src= "./blind-opener-images/gearboxV1.png" />
+    <img src= "./blind-opener-images/gearboxV1_2.png" />
+  </p>
+  <p>  
+    <em>Figure 3 & 4: Gearbox solution #1</em>
+  </p>
 </p>
 
 ### Planetary Gearbox 25:1
 After another failed design, I looked to overcompensate on the torque aspect and found an online design that amplified the torque by a ratio of 25:1 (https://www.printables.com/model/136854-25-1-ratio-planetary-gearbox-for-nema-17-stepper ). After purchasing some additional fasteners, I printed and assembled the gearbox for testing. Initial tests proved to be promising as the blinds were able to be opened however due to the lack of friction with the chain beads on the output spool, the chain would jump and skip output rotations. Additionally, the way the gearbox was designed, the front spool was attached to a bearing that simply clicked into the front face of the gearbox. To successfully pull the blinds open, the tension of the chain had to be quite taught which would cause the bearing to slip out of the frame.
 
 <p align="center">
-  <img src= "./blind-opener-images/gearboxV2.png" />
-  <img src= "./blind-opener-images/gearboxV2_2.png" />
-  <em>Figure 3 & 4: Gearbox solution #2</em>
+  <p>
+    <img src= "./blind-opener-images/gearboxV2.png" />
+    <img src= "./blind-opener-images/gearboxV2_2.png" />
+  </p>
+  <p>
+    <em>Figure 3 & 4: Gearbox solution #2</em>
+  </p>
 </p>
 
 ### Spool Design
 The initial design of the spool mimicked the size of the blind’s chain mechanism. I measured the dimensions of the beaded chain and implemented a similar pattern into a spool on Fusion 360 (Figure 3). This was advantageous for initial testing however due to the skipping of beads under high load (blind opening), I sought to improve the design. I began by increasing the size of the spool as well as the distance between the bead housings within my design. This is because I noticed that when the rope was taught, the beads would not sit properly in their grooves. This improved traction however skipping was still frequent. I then turned to the design of the blind itself and replicated the box-like pattern (Figure 5). This way, the beads would simply get caught instead of having to fit a groove.
-
 
 <p align="center">
   <img src= "./blind-opener-images/spool_final.png" />
@@ -82,7 +89,9 @@ After constructing the spool and attaching it to the gearbox and motor, the fina
   <img src= "./blind-opener-images/final1.png" />
   <img src= "./blind-opener-images/final2.png" />
 </p>
-<em>Figure 7 & 8: Final build completed</em>
+<p align="center">
+  <em>Figure 7 & 8: Final build completed</em>
+</p>
 
 ## Video Demonstration
 
