@@ -74,15 +74,15 @@ The initial design of the spool mimicked the size of the blind’s chain mechani
 After constructing the spool and attaching it to the gearbox and motor, the final step was to design a case to enclose the electronics. The case was fitted with 4 holes for wall mounting and a few additional holes for wire management. The electronics fit inside as seen in Figure 6. The final construction can be seen in Figure 7 and Figure 8.
 
 <p align="center">
-  <img src= "./blind-opener-images/final2.png" />
+  <img src= "./blind-opener-images/final3.png" />
   <em>Figure 6: Electronics enclosed within casing</em>
 </p>
 
 <p align="center">
   <img src= "./blind-opener-images/final1.png" />
-  <img src= "./blind-opener-images/final3.png" />
-  <em>Figure 7 & 8: Final build completed</em>
+  <img src= "./blind-opener-images/final2.png" />
 </p>
+<em>Figure 7 & 8: Final build completed</em>
 
 ## Video Demonstration
 
