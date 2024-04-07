@@ -62,6 +62,23 @@ After another failed design, I looked to overcompensate on the torque aspect and
 The initial design of the spool mimicked the size of the blind’s chain mechanism. I measured the dimensions of the beaded chain and implemented a similar pattern into a spool on Fusion 360 (Figure x). This was advantageous for initial testing however due to the skipping of beads under high load (blind opening), I sought to improve the design. I began by increasing the size of the spool as well as the distance between the bead housings within my design. This is because I noticed that when the rope was taught, the beads would not sit properly in their grooves. This improved traction however skipping was still frequent. I then turned to the design of the blind itself and replicated the box-like pattern (Figure x). This way, the beads would simply get caught instead of having to fit a groove.
 
 
+<p align="center">
+  <img src= "./blind-opener-images/spool_final.png" />
+</p>
+
+### Final Build
+After constructing the spool and attaching it to the gearbox and motor, the final step was to design a case to enclose the electronics. The case was fitted with 4 holes for wall mounting and a few additional holes for wire management. The electronics fit inside as seen in Figure x. And the final construction can be seen in Figure x and Figure x.
+
+<p align="center">
+  <img src= "./blind-opener-images/final_2.png" />
+</p>
+
+<p align="center">
+  <img src= "./blind-opener-images/final_1.png" />
+  <img src= "./blind-opener-images/final_3.png" />
+</p>
+
+## Video Demonstration
 
 https://github.com/mzak8780/auto-blind-opener/assets/50131251/77a8361b-64e1-4853-98c4-8377ad70cdca
 
