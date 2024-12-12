@@ -8,18 +8,19 @@ Customizations were applied to fit the requirements of my particular blinds and 
 The blind opener is voice-controlled via the use of a universal RF hub and an Alexa puck.
 
 ## Blind Opener Project Sheet
-Required items:
-Part Name	                        Supplier	      Cost ($)       Comments
-1Nm Stepper Motor -> Nema 23
-0.4Nm Stepper Motor -> Nema 17	        Ebay	              15	     Sized down to a smaller stepper motor for size, weight, and cost benefits. Incorporated gear design to compensate for power loss.
-Stepper Motor driver (5 pack)	        Ebay	              10.50	
-Infrared sensor with remote	        Ebay	              7.50	     Had to purchase a second sensor as I shorted the first.
-2.1 DC Input power module	        Jaycar	              3	
-Pro Micro Arduino Board	                Ebay	              15	
-Smart Infrared Remote	                Ebay	              20	
-Capacitor	                        Jaycar		
-Resistor	                        Jaycar
-Bearings
+
+| Part Name                        | Supplier   | Cost ($) | Comments                                                                 |
+|-----------------------------------|------------|----------|--------------------------------------------------------------------------|
+| 1Nm Stepper Motor -> Nema 23      | Ebay       | 15       | Sized down to a smaller stepper motor for size, weight, and cost benefits. Incorporated gear design to compensate for power loss. |
+| 0.4Nm Stepper Motor -> Nema 17    | Ebay       | 15       | Sized down to a smaller stepper motor for size, weight, and cost benefits. Incorporated gear design to compensate for power loss. |
+| Stepper Motor driver (5 pack)     | Ebay       | 10.50    |                                                                          |
+| Infrared sensor with remote       | Ebay       | 7.50     | Had to purchase a second sensor as I shorted the first.                 |
+| 2.1 DC Input power module         | Jaycar     | 3        |                                                                          |
+| Pro Micro Arduino Board           | Ebay       | 15       |                                                                          |
+| Smart Infrared Remote             | Ebay       | 20       |                                                                          |
+| Capacitor                         | Jaycar     |          |                                                                          |
+| Resistor                          | Jaycar     |          |                                                                          |
+| Bearings                          |            |          |    
 
 ### Gear Design
 As calculated, the torque required to turn the blinds from a closed -> open position requires:
